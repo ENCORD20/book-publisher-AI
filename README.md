@@ -14,6 +14,7 @@ AI Book Publisher is a Python-based application designed to help authors, educat
 
 ## 🖥️ Setup Instructions
 
+
 ### ⚙️ Requirements
 
 - Python 3.10 or higher
@@ -24,6 +25,29 @@ AI Book Publisher is a Python-based application designed to help authors, educat
 
 #### 1. Clone the repository
 
-```bash
+```
 git clone https://github.com/ENCORD20/book-publisher.git
-cd book-publisher
+cd book-publishe
+```
+
+#### 2. Create and activate a virtual environment
+
+```
+python -m venv venv
+# Windows:
+venv\Scripts\activate
+# macOS/Linux:
+source venv/bin/activate
+```
+
+#### 3. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+#### 4. Running the app on streamlit
+
+```
+streamlit run app.py
+```
