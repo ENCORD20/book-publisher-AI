@@ -8,7 +8,7 @@ AI Book Publisher is a Python-based application designed to help authors, educat
 - 📖 Automatic chapter generation from a book title or topic
 - ✍️ AI-powered content generation for each chapter
 - 📄 Export to `.txt` or `.pdf` formats
-- 💡 Interactive UI (Streamlit or Gradio based)
+- 💡 Interactive UI (Streamlit based)
 - 🧠 Utilizes large language models for creative writing
 
 
